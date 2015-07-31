@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Social Sports</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login_registration">LoginRegistrationActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_tweet_details">TweetDetailsActivity</string>
+    <string name="title_activity_filters">FiltersActivity</string>
+    <string name="title_activity_add_filter">AddFilterActivity</string>
+    <string name="title_activity_filter_details">FilterDetailsActivity</string>
+    <string name="title_activity_change_filter">ChangeFilterActivity</string>
+    <string name="title_activity_twitter_web">TwitterWebActivity</string>
+
+
+    <string name="login_registration_twitter_warning">SocialSports makes usage of your Twitter account to deliver you the best experience. We use your Twitter account to get access to the tweet stream and to deliver you the tweets according to your specific filters. SocialSports will never (ever) abuse your Twitter account!</string>
+
+</resources>

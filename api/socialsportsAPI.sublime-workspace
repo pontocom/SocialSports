@@ -1,0 +1,419 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lo",
+				"loginURL  (variable)"
+			],
+			[
+				"fie",
+				"fields_string  (variable)"
+			],
+			[
+				"url",
+				"urlencode"
+			],
+			[
+				"ur",
+				"urlencode"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"sign",
+				"signinURL"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"respo",
+				"responseText"
+			],
+			[
+				"sess",
+				"sessionURL"
+			],
+			[
+				"us",
+				"userProfileWindow"
+			],
+			[
+				"main",
+				"mainWindow"
+			],
+			[
+				"inde",
+				"indexWindow"
+			],
+			[
+				"service",
+				"serviceAlert"
+			],
+			[
+				"services",
+				"servicesnok"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"stat",
+				"statusmessage"
+			],
+			[
+				"serv",
+				"servicesnok"
+			],
+			[
+				"id",
+				"id_default_account"
+			],
+			[
+				"d",
+				"default"
+			],
+			[
+				"nu",
+				"num_unk"
+			],
+			[
+				"Ti",
+				"Titanium"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "server.js",
+			"settings":
+			{
+				"buffer_size": 955,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "user.js",
+			"settings":
+			{
+				"buffer_size": 761,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Titanium Build/Titanium.sublime-build",
+	"command_palette":
+	{
+		"height": 287.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instaa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 296.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/distributeAndroid.sh",
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/app/styles/index.tss",
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/app/views/ios/index.xml",
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/app/styles/ios/index.tss",
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/tiapp.xml",
+		"/Users/cserrao/Documents/Development/Lighthouse/lighthouse/app/views/main.xml",
+		"/Users/carlosserrao/Sites/aal4all/aal4allsec/API/server.js",
+		"/Users/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/216C4FD6-D5CA-4D9A-8C22-5AB758B57860/LocalSettings.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/39829291-A183-42C6-92C3-564461686016/config.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/F2E77FFC-FF23-4942-A2AF-A3CEE5907AE8/TwitterFeed.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/23D8AF72-8142-4FB4-9646-12873D2707C0/Foreground.skin.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/4039CB72-A1C7-4473-8D44-EEAE5321147A/LocalSettings.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/A02CDD13-EF56-4B44-8033-BAB012301926/Foreground.skin.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/0AED98F5-852D-485C-B535-5FDD5D05ECC6/foreground.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/index.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/index.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/index.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/ios/index.xml",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/D59723D6-9AB2-4E1C-B898-C7E6A89CC0B2/LocalSettings.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/86FD4749-F98D-4AD3-B67D-53E6FE0C346A/teams.php",
+		"/Volumes/UserData/carlosserrao/Documents/Aulas/Desenvolvimento de Aplicações para Ambientes Móveis/20132014/Development/fenix.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/F7B1548D-C0DB-4AE8-AD86-A3D06F220FF9/add.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/538775E0-9BF6-463E-BEAE-15AF67E3BD4E/createHugPostcard.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/19F6D6AB-E5FC-48B8-95D6-31AFE75C57C0/doHug.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/opensdrm/AUS/AUS.ws.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/opensdrm/lib/common/PublicKey.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/opensdrm/lib/common/KeyGenerator.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/tiapp.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/serviceDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/main.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/main.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/userProfile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/servicesList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/controllers/serviceGroupsList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/userProfile.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/userProfile.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/serviceDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/main.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/activeAlarmDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/serviceGroupsList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/views/servicesList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/serviceDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/activeAlarmDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/serviceGroupsList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lighthouse/app/styles/servicesList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/tiapp.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/index.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/serviceGroupsList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/servicesList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/servicesList.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/serviceGroupsList.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/servicesList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/activeAlarmDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/serviceDetail.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/main.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/index.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/serviceGroupsList.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/serviceDetail.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/views/serviceDetail.xml",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/controllers/main.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/main.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/alloy.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/3CBD0E13-C5C7-4A69-8069-CE4E6D09359F/User.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/LighthouseAlarm/app/styles/index.tss",
+		"/Volumes/UserData/carlosserrao/Documents/Development/Lighthouse/lhAlarm/Resources/app.js",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/twitter.js",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/app.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/social_hub/login.php",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/AAF7ADDC-6277-4A94-BEFE-E126229E2907/sendCheckin.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/venues.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/registerFacebookUser.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/oombieapi/checkin.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/classes/Card.class.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/BackOffice/Oombiestores/classes/Catalog.class.php",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Volumes/UserData/carlosserrao/Downloads/TiPlatformConnect-master/Resources/foursquare.js",
+		"/Volumes/UserData/carlosserrao/Library/Caches/Cleanup At Startup/Transmit/57D22A18-9659-4363-8B95-751A3AAFE59C/getVenueDetails.php",
+		"/Volumes/UserData/carlosserrao/Sites/oombieportal_v2/controllers/functions/fanart.php",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/App/oombie/app/controllers/user_profile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/app/controllers/user_profile.js",
+		"/Volumes/UserData/carlosserrao/Documents/Development/OombieGo Titanium/ooombie-v2/App/oombie/app/controllers/index.js"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"main",
+			"authorize",
+			"twitter",
+			"foursquare"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "server.js",
+					"settings":
+					{
+						"buffer_size": 955,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								377,
+								377
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "user.js",
+					"settings":
+					{
+						"buffer_size": 761,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								493,
+								493
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 207.0,
+	"status_bar_visible": true
+}
