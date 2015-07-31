@@ -1,5 +1,6 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:orientation="vertical"
     android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
@@ -7,6 +8,7 @@
     tools:context="pt.iscte_iul.socialsports.TweetDetailsActivity"
     android:background="@drawable/socialsportsbg">
 
+    <!--
     <ImageView
         android:layout_width="100dp"
         android:layout_height="100dp"
@@ -41,12 +43,23 @@
         android:layout_below="@+id/tvTweetContent"
         android:layout_centerHorizontal="true" />
 
+        -->
+
     <Button
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:text="Close"
         android:id="@+id/btCloseTweetDetails"
         android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
         android:onClick="clickCloseButton"/>
+
+    <LinearLayout
+        android:id="@+id/tweetlayout"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"></LinearLayout>
+
 </RelativeLayout>

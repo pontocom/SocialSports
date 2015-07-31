@@ -7,10 +7,18 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.LinearLayout;
 import android.widget.TextView;
 
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
+import com.twitter.sdk.android.core.Callback;
+import com.twitter.sdk.android.core.Result;
+import com.twitter.sdk.android.core.TwitterException;
+import com.twitter.sdk.android.core.models.*;
+import com.twitter.sdk.android.core.models.Tweet;
+import com.twitter.sdk.android.tweetui.TweetUtils;
+import com.twitter.sdk.android.tweetui.TweetView;
 
 public class TweetDetailsActivity extends ActionBarActivity {
     protected ImageView iv_tweetuserpicture;
@@ -23,17 +31,36 @@ public class TweetDetailsActivity extends ActionBarActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_tweet_details);
 
+        final LinearLayout myLayout = (LinearLayout) findViewById(R.id.tweetlayout);
+
+        /*
         iv_tweetuserpicture = (ImageView) findViewById(R.id.ivTweetAuthorImage);
         iv_tweetextracontent = (ImageView) findViewById(R.id.ivTweetOptionalAditionalContent);
         tv_tweeusername = (TextView) findViewById(R.id.tvTweeterAuthorName);
         tv_tweetcontent = (TextView) findViewById(R.id.tvTweetContent);
+        */
 
         Intent i = getIntent();
+        /*
         tv_tweeusername.setText(i.getStringExtra("tweetusername"));
         tv_tweetcontent.setText(i.getStringExtra("tweetcontent"));
 
         ImageLoader.getInstance().displayImage(i.getStringExtra("tweetuserpicture"), iv_tweetuserpicture);
         ImageLoader.getInstance().displayImage(i.getStringExtra("tweetextracontent"), iv_tweetextracontent);
+        */
+
+
+        TweetUtils.loadTweet(i.getLongExtra("tweetid", 0), new Callback<com.twitter.sdk.android.core.models.Tweet>() {
+            @Override
+            public void success(Result<Tweet> result) {
+                myLayout.addView(new TweetView(TweetDetailsActivity.this, result.data));
+            }
+
+            @Override
+            public void failure(TwitterException e) {
+
+            }
+        });
 
     }
 
